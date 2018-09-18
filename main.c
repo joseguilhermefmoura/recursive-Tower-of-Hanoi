@@ -18,7 +18,6 @@ int main(){
 	printf("\nTotal of moves: %.0lf \n", power(2, disks) - 1); // Math formula [n = 2^m - 1] that describes the number of moves of a Tower of Hanoi, where n = number of moves and m = number of diks.
 	printf("\n\n\n");
 	
-	system("PAUSE");
 	return EXIT_SUCCESS;
 }
 
