@@ -11,3 +11,7 @@ Actually, we could have done it by the iterative version. But, recursion may be 
 
 It's not that simple to say if a recursive solution to an specific programming problem is faster or slower than the iterative solution of it. A lot of things must be considered. I recommend the reading of the following page for a better understandment:
 [https://www.quora.com/Is-recursion-faster-than-loops]
+
+**Screenshot:**
+
+![Screenshot](screenshot.png)
