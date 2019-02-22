@@ -1,7 +1,7 @@
 # Tower of Hanoi: the recursive solution.
 **How many ways are there to solve the Tower of Hanoi problem?**
 
-There are two common ways of thinking about how to solve the Tower of Hanoi problem using programming: either implementing the iterative version or the recursive version. 
+There are two ways of thinking about how to solve the Tower of Hanoi problem using programming: either implementing the iterative version or the recursive version. 
 
 **Then why should we use the recursive way in that problem?**
 
